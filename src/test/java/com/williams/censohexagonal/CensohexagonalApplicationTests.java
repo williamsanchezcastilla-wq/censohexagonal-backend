@@ -1,0 +1,13 @@
+package com.williams.censohexagonal;
+
+import org.junit.jupiter.api.Test;
+import org.springframework.boot.test.context.SpringBootTest;
+
+@SpringBootTest
+class CensohexagonalApplicationTests {
+
+	@Test
+	void contextLoads() {
+	}
+
+}
